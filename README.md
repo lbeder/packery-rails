@@ -9,10 +9,12 @@ In your Gemfile, add:
 ```ruby
 gem 'packery-rails'
 ```
+
 Add it to your JavaScript manifest file:
 
 ``` js
 //= require packery.pkgd
+```
 
 ## Commercial license
 
